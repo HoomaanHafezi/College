@@ -1,0 +1,14 @@
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Hooman\Desktop\MyProjects\College\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache

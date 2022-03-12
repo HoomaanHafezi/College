@@ -1830,11 +1830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hooman\\Desktop\\MyProjects\\College\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "c:\\Users\\Hooman\\Desktop\\MyProjects\\College\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Hooman\\Desktop\\MyProjects\\College\\DataAccess\\DataAccess.csproj",
+      "projectPath": "c:\\Users\\Hooman\\Desktop\\MyProjects\\College\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Hooman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hooman\\Desktop\\MyProjects\\College\\DataAccess\\obj\\",
+      "outputPath": "c:\\Users\\Hooman\\Desktop\\MyProjects\\College\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
